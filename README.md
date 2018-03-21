@@ -32,4 +32,4 @@ Columns:
 
 `graphs_overview.pdf` 
 
-![Context 1-18](graphs_overview.pdf)
+![Context 1-18](graphs_overview.png)
