@@ -10,7 +10,7 @@ Columns:
 - `subject` Participant ID (note, subject `1` in Experiment 1 is not the same participant as subject `1` in Experiment 2, etc.)
 - `block` Block number, same ordering as reported in the paper
 - `repetition` Either `1` or `2` (only relevant for Experiment 1, where each block was shown two times)
-- `graph` ID of the causal structure drawn by the participant (see Figure C1 in the Appendix for all 64 causal structures and their IDs)
+- `graph` ID of the causal structure drawn by the participant (for all 64 causal structures and their IDs, see `graphs_overview.pdf` shown below or the identical Figure C1 in the Appendix)
 
 ------
 
@@ -27,3 +27,9 @@ Columns:
 -------
 
 `instructions_outline.pdf` outlines the instructions for Experiment 1 (the footnote "Original" was not shown in the experiment). The instructions for Experiments 2 to 5  were built upon these core instructions (see Table A.1 in the Appendix for an overview and descriptions in the main text for details).
+
+-------
+
+`graphs_overview.pdf` 
+
+![Context 1-18](graphs_overview.pdf)
