@@ -1,4 +1,4 @@
-Data and material for the experiments and the modeling reported in _Rothe, Deverett, Mayrhofer, & Kemp (in revision). Successful structure learning from observational data._
+Data and material for the experiments and the modeling reported in _Rothe, Deverett, Mayrhofer, & Kemp (in press). Successful structure learning from observational data._ [[preprint]](https://psyarxiv.com/yqve9/)
 
 ------
 
